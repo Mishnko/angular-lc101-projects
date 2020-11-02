@@ -1,0 +1,13 @@
+.chores {
+    font-family: monospace;
+    color: purple;
+}
+h3 {
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+.chores li {
+    font-style: italic;
+    font-size: large;
+}
